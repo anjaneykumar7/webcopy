@@ -1,6 +1,7 @@
 name: webcopy
 description: A new Flutter package project.
 version: 0.0.1
+author: anjan
 homepage: https://github.com/anjaneykumar7/webcopy
 
 environment:
